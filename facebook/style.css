@@ -1,0 +1,52 @@
+.main-conteiner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+}
+.img img{
+   height: 100px;
+}
+
+.form-input input{
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: beige;
+    width: 300px;
+}
+.log-in-button button{
+    background: #0866ff;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.button button{ 
+   background-color: green;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+} 
+.right-side{
+    border: 2px solid #0866ff;
+    padding: 30px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 10px 10px 50px rgb(124, 124, 123)
